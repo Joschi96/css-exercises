@@ -9,6 +9,8 @@ html {
   height: 100%;
   padding: 16px;
   box-sizing: border-box;
+  display: inline-grid;
+  gap: 15px;
 }
 
 .container div {
